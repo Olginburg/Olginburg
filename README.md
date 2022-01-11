@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Olginburg
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning in Yandex.practicum
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me olginburg20@ya.ru
 
 <!---
 Olginburg/Olginburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
